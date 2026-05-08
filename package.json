@@ -14,5 +14,12 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "devDependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajuthakur04/Backend-by-cohort2.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rajuthakur04/Backend-by-cohort2.0/issues"
+  },
+  "homepage": "https://github.com/Rajuthakur04/Backend-by-cohort2.0#readme"
 }
