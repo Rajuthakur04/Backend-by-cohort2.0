@@ -1,16 +1,11 @@
 const mongoose = require("mongoose")
  
 const app = require("./src/app")
+const ConnectToDatabase = require("./src/config/DataBase")
 
 // Database connection
 
- function ConnectToDatabase() {
-    
-    mongoose.connect("mongodb://localhost:27017/employeeDB")
-    .then(()=>{
-        console.log("Database connected successfully")
-        })
-}  
+ 
 
 ConnectToDatabase()
 
