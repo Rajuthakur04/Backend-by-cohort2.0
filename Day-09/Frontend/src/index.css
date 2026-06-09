@@ -30,3 +30,9 @@ html{
   max-width: 20rem;
   color: black;
 }
+.note-create-form{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding-block: 1rem;
+}

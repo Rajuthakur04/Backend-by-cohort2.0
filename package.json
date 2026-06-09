@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "cat-me": "^1.0.3",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "vite": "^8.0.12"
   },
   "name": "backend",
   "version": "1.0.0",
